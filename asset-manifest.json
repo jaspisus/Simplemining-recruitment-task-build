@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Simplemining-recruitment-task-build/static/css/main.2a6a1de5.chunk.css",
-    "main.js": "/Simplemining-recruitment-task-build/static/js/main.21e100ec.chunk.js",
-    "main.js.map": "/Simplemining-recruitment-task-build/static/js/main.21e100ec.chunk.js.map",
-    "runtime-main.js": "/Simplemining-recruitment-task-build/static/js/runtime-main.5dcf902d.js",
-    "runtime-main.js.map": "/Simplemining-recruitment-task-build/static/js/runtime-main.5dcf902d.js.map",
-    "static/js/2.51502ba3.chunk.js": "/Simplemining-recruitment-task-build/static/js/2.51502ba3.chunk.js",
-    "static/js/2.51502ba3.chunk.js.map": "/Simplemining-recruitment-task-build/static/js/2.51502ba3.chunk.js.map",
-    "index.html": "/Simplemining-recruitment-task-build/index.html",
-    "static/css/main.2a6a1de5.chunk.css.map": "/Simplemining-recruitment-task-build/static/css/main.2a6a1de5.chunk.css.map",
-    "static/js/2.51502ba3.chunk.js.LICENSE.txt": "/Simplemining-recruitment-task-build/static/js/2.51502ba3.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.2a6a1de5.chunk.css",
+    "main.js": "/static/js/main.21e100ec.chunk.js",
+    "main.js.map": "/static/js/main.21e100ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.af9ce472.js",
+    "runtime-main.js.map": "/static/js/runtime-main.af9ce472.js.map",
+    "static/js/2.51502ba3.chunk.js": "/static/js/2.51502ba3.chunk.js",
+    "static/js/2.51502ba3.chunk.js.map": "/static/js/2.51502ba3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2a6a1de5.chunk.css.map": "/static/css/main.2a6a1de5.chunk.css.map",
+    "static/js/2.51502ba3.chunk.js.LICENSE.txt": "/static/js/2.51502ba3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5dcf902d.js",
+    "static/js/runtime-main.af9ce472.js",
     "static/js/2.51502ba3.chunk.js",
     "static/css/main.2a6a1de5.chunk.css",
     "static/js/main.21e100ec.chunk.js"
