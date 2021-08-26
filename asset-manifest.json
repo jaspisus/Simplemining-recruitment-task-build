@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Simplemining-recruitment-task-build/static/css/main.2a6a1de5.chunk.css",
-    "main.js": "/Simplemining-recruitment-task-build/static/js/main.f12e4601.chunk.js",
-    "main.js.map": "/Simplemining-recruitment-task-build/static/js/main.f12e4601.chunk.js.map",
+    "main.js": "/Simplemining-recruitment-task-build/static/js/main.21e100ec.chunk.js",
+    "main.js.map": "/Simplemining-recruitment-task-build/static/js/main.21e100ec.chunk.js.map",
     "runtime-main.js": "/Simplemining-recruitment-task-build/static/js/runtime-main.5dcf902d.js",
     "runtime-main.js.map": "/Simplemining-recruitment-task-build/static/js/runtime-main.5dcf902d.js.map",
     "static/js/2.51502ba3.chunk.js": "/Simplemining-recruitment-task-build/static/js/2.51502ba3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5dcf902d.js",
     "static/js/2.51502ba3.chunk.js",
     "static/css/main.2a6a1de5.chunk.css",
-    "static/js/main.f12e4601.chunk.js"
+    "static/js/main.21e100ec.chunk.js"
   ]
 }
